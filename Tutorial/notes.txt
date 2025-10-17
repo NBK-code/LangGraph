@@ -1,0 +1,16 @@
+Used custom reducer function and custom tool node
+Used guard rails
+used budget limits
+
+
+PROJECTS:
+
+1. LangGraph Teaching Assistant
+2. RAG model
+3. ARC challenge
+4. Test Time training
+5. GRPO training
+6. Gradient matching
+7. DARPA
+8. Paper
+9. Build LLM from scratch

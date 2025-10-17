@@ -1,0 +1,11 @@
+# Ignore all dotenv files anywhere in the repo
+.env
+*.env
+.env.*
+**/.env
+**/.env.*
+
+
+# (Optional) keep template env files tracked
+# !.env.example
+# !*.env.example
